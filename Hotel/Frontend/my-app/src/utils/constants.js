@@ -1,0 +1,1 @@
+export const constants={serverUrl : 'http://10.104.135.244:8080'};
